@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.125" name="ConexionLinq">
+  <DataContextMoniker Name="/ConexionLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c583b037-1a08-46cf-b509-bc364b14d5d5" absoluteBounds="0.75, 5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblAeronave" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4780f1c7-a74b-4309-808d-deffd53039bd" absoluteBounds="0.765, 5.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="786f02f4-fc80-4b88-b00a-6b498fb86d9b" absoluteBounds="0.75, 1.625, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblPiloto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27791b1e-7ec8-476b-8b94-0cc0d53a0192" absoluteBounds="0.765, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="92118edf-cb76-445f-8d8b-839291612ce0" absoluteBounds="0.75, 7.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblTrayecto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0779bf4e-31f7-4ed6-9ac5-7a5695d23ef9" absoluteBounds="0.765, 8.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd8ab7c2-0365-4cf8-865b-48d28d98aa5b" absoluteBounds="3.5, 5.125, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblUsuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26c2f26c-0a17-4ba5-9aff-9732ae4899c9" absoluteBounds="3.515, 5.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f2d85aea-6c7a-4400-8d20-ca4b5616501c" absoluteBounds="6.25, 1.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblUsuarioVuelo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be984392-75dd-44c7-991f-8bee89c1def8" absoluteBounds="6.265, 1.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a800a41-e927-4412-a2e3-911ba340b37f" absoluteBounds="3.5, 1, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ConexionLinqDataContext/tblVuelo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="75b85ffe-0071-46ca-a007-68d75b4add57" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 6.29890055338542); (7.25 : 6.29890055338542); (7.25 : 3.07859537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ConexionLinqDataContext/tblUsuario/tblUsuario_tblUsuarioVuelo" />
+      <nodes>
+        <classShapeMoniker Id="bd8ab7c2-0365-4cf8-865b-48d28d98aa5b" />
+        <classShapeMoniker Id="f2d85aea-6c7a-4400-8d20-ca4b5616501c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.28929768880208); (6.25 : 2.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ConexionLinqDataContext/tblVuelo/tblVuelo_tblUsuarioVuelo" />
+      <nodes>
+        <classShapeMoniker Id="5a800a41-e927-4412-a2e3-911ba340b37f" />
+        <classShapeMoniker Id="f2d85aea-6c7a-4400-8d20-ca4b5616501c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5); (3.125 : 4.625); (3.125 : 2.36620198567708); (3.5 : 2.36620198567708)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ConexionLinqDataContext/tblAeronave/tblAeronave_tblVuelo" />
+      <nodes>
+        <classShapeMoniker Id="c583b037-1a08-46cf-b509-bc364b14d5d5" />
+        <classShapeMoniker Id="5a800a41-e927-4412-a2e3-911ba340b37f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.93310099283854); (3.5 : 1.93310099283854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ConexionLinqDataContext/tblPiloto/tblPiloto_tblVuelo" />
+      <nodes>
+        <classShapeMoniker Id="786f02f4-fc80-4b88-b00a-6b498fb86d9b" />
+        <classShapeMoniker Id="5a800a41-e927-4412-a2e3-911ba340b37f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.81307592307692); (3.3125 : 7.25057592307692); (3.3125 : 3.08055497851562); (3.5 : 3.08055497851562)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ConexionLinqDataContext/tblTrayecto/tblTrayecto_tblVuelo" />
+      <nodes>
+        <classShapeMoniker Id="92118edf-cb76-445f-8d8b-839291612ce0" />
+        <classShapeMoniker Id="5a800a41-e927-4412-a2e3-911ba340b37f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

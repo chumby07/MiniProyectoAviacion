@@ -1,0 +1,56 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+D:\fabian fagina\SENA\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+D:\fabian fagina\SENA\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+D:\fabian fagina\SENA\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+D:\fabian fagina\SENA\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+D:\fabian fagina\SENA\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+D:\fabian fagina\SENA\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+D:\fabian fagina\SENA\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+D:\fabian fagina\SENA\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll.config
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\MODEL\obj\Debug\MODEL.pdb

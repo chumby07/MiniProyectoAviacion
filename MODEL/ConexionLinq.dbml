@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="miniproyecto" Class="ConexionLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MELI-PC;Initial Catalog=miniproyecto;Integrated Security=True" SettingsObjectName="MODEL.Properties.Settings" SettingsPropertyName="miniproyectoConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblAeronave" Member="tblAeronaves">
+    <Type Name="tblAeronave">
+      <Column Name="IdAeronave" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Modelo" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="UnidadesDisponibles" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CapacidadPasajeros" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CapacidadCarga" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Autonomia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblAeronave_tblVuelo" Member="tblVuelos" ThisKey="IdAeronave" OtherKey="IdAeronave" Type="tblVuelo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPiloto" Member="tblPilotos">
+    <Type Name="tblPiloto">
+      <Column Name="IdPiloto" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Identificacion" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Association Name="tblPiloto_tblVuelo" Member="tblVuelos" ThisKey="IdPiloto" OtherKey="IdPiloto" Type="tblVuelo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblTrayecto" Member="tblTrayectos">
+    <Type Name="tblTrayecto">
+      <Column Name="IdTrayecto" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Codigo" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Origen" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Destino" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Precio" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="DuracionTrayecto" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Millas" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Association Name="tblTrayecto_tblVuelo" Member="tblVuelos" ThisKey="IdTrayecto" OtherKey="IdTrayecto" Type="tblVuelo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUsuario" Member="tblUsuarios">
+    <Type Name="tblUsuario">
+      <Column Name="IdUsuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Identificacion" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="MillasAcumuladas" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Clasificacion" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Pass" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Users" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Rol" Type="System.String" DbType="VarChar(1)" CanBeNull="true" />
+      <Association Name="tblUsuario_tblUsuarioVuelo" Member="tblUsuarioVuelos" ThisKey="IdUsuario" OtherKey="IdUsuario" Type="tblUsuarioVuelo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUsuarioVuelo" Member="tblUsuarioVuelos">
+    <Type Name="tblUsuarioVuelo">
+      <Column Name="IdUsuVuelo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdVuelo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdUsuario" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PesoEquipaje" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Association Name="tblUsuario_tblUsuarioVuelo" Member="tblUsuario" ThisKey="IdUsuario" OtherKey="IdUsuario" Type="tblUsuario" IsForeignKey="true" />
+      <Association Name="tblVuelo_tblUsuarioVuelo" Member="tblVuelo" ThisKey="IdVuelo" OtherKey="IdVuelo" Type="tblVuelo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVuelo" Member="tblVuelos">
+    <Type Name="tblVuelo">
+      <Column Name="IdVuelo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FechaSalida" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="HoraSalida" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="FechaRegreso" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="HoraRegreso" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="IdTrayecto" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdAeronave" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdPiloto" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CapacidadVuelo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NombreVuelo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="tblVuelo_tblUsuarioVuelo" Member="tblUsuarioVuelos" ThisKey="IdVuelo" OtherKey="IdVuelo" Type="tblUsuarioVuelo" />
+      <Association Name="tblAeronave_tblVuelo" Member="tblAeronave" ThisKey="IdAeronave" OtherKey="IdAeronave" Type="tblAeronave" IsForeignKey="true" />
+      <Association Name="tblPiloto_tblVuelo" Member="tblPiloto" ThisKey="IdPiloto" OtherKey="IdPiloto" Type="tblPiloto" IsForeignKey="true" />
+      <Association Name="tblTrayecto_tblVuelo" Member="tblTrayecto" ThisKey="IdTrayecto" OtherKey="IdTrayecto" Type="tblTrayecto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.procInserClient" Method="procInserClient">
+    <Parameter Name="Identification" Parameter="identification" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="UserName" Parameter="userName" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="Rol" Parameter="rol" Type="System.String" DbType="VarChar(1)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.procInsertAirplane" Method="procInsertAirplane">
+    <Parameter Name="Model" Parameter="model" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="UnitsAvailable" Parameter="unitsAvailable" Type="System.Int32" DbType="Int" />
+    <Parameter Name="PassengerCapacity" Parameter="passengerCapacity" Type="System.Int32" DbType="Int" />
+    <Parameter Name="WeightCapacity" Parameter="weightCapacity" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Autonomy" Parameter="autonomy" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.procInsertFlight" Method="procInsertFlight">
+    <Parameter Name="DepartureDate" Parameter="departureDate" Type="System.String" DbType="VarChar(12)" />
+    <Parameter Name="DepartureTime" Parameter="departureTime" Type="System.String" DbType="VarChar(5)" />
+    <Parameter Name="ReturnDate" Parameter="returnDate" Type="System.String" DbType="VarChar(12)" />
+    <Parameter Name="ReturnTime" Parameter="returnTime" Type="System.String" DbType="VarChar(5)" />
+    <Parameter Name="IdRoute" Parameter="idRoute" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IdAirplane" Parameter="idAirplane" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IdPilot" Parameter="idPilot" Type="System.Int32" DbType="Int" />
+    <Parameter Name="NameFlight" Parameter="nameFlight" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.procInsertPilot" Method="procInsertPilot">
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(40)" />
+    <Parameter Name="Identification" Parameter="identification" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.procInsertRoute" Method="procInsertRoute">
+    <Parameter Name="Code" Parameter="code" Type="System.String" DbType="VarChar(15)" />
+    <Parameter Name="Origin" Parameter="origin" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Destination" Parameter="destination" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Price" Parameter="price" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="FlightTime" Parameter="flightTime" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="Miles" Parameter="miles" Type="System.String" DbType="VarChar(15)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

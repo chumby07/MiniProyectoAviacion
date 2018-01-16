@@ -1,0 +1,63 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+D:\fabian fagina\SENA\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\CONTROLLER\obj\Debug\CONTROLLER.pdb

@@ -1,0 +1,44 @@
+create table tblAeronave(
+	IdAeronave int identity(1,1) primary key,
+	Modelo varchar(20),
+	UnidadesDisponibles int,
+	CapacidadPasajeros int,
+	CapacidadCarga varchar(20),
+	Autonomia int
+)
+
+create table tblTrayecto(
+	IdTrayecto int identity(1,1) primary key,
+	Codigo varchar(15),
+	Origen varchar(20),
+	Destino varchar(20),
+	Precio varchar(20),
+	DuracionTrayecto varchar(10)
+)
+
+create table tblPiloto(
+	IdPiloto int identity(1,1) primary key,
+	Nombre varchar(40),
+	Identificacion varchar(20)
+)
+
+create table tblVuelo(
+	IdVuelo int identity(1,1) primary key,
+	FechaSalida varchar(12),
+	HoraSalida varchar(5),
+	FechaRegreso varchar(12),
+	HoraRegreso varchar(5),
+	ValorTiquete varchar(20),
+	IdTrayecto int FOREIGN KEY REFERENCES tblTrayecto(IdTrayecto),
+	IdAeronave int FOREIGN KEY REFERENCES tblAeronave(IdAeronave),
+	IdPiloto int FOREIGN KEY REFERENCES tblPiloto(IdPiloto),
+)
+
+create table tblUsuarioVuelo(
+	IdUsuVuelo int Identity(1,1) primary key,
+	IdVuelo int FOREIGN KEY REFERENCES tblVuelo(IdVuelo),
+	IdUsuario int FOREIGN KEY REFERENCES tblUsuario(IdUsuario),
+)
+
+ALTER TABLE tblUsuarioVuelo
+ADD PesoEquipaje varchar(15)

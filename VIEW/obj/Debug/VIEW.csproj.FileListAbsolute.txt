@@ -1,0 +1,693 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\ApplicationInsights.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\csc.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\VIEW.dll.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\VIEW.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\VIEW.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\EntityFramework.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Owin.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\WebGrease.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\EntityFramework.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\CONTROLLER.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\LOGIC.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\LOGIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\MODEL.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\VIEW\bin\MODEL.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\ApplicationInsights.config
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\csc.exe
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\VIEW.dll.config
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\VIEW.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\VIEW.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\CONTROLLER.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\EntityFramework.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\LOGIC.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Owin.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\WebGrease.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\MODEL.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\LOGIC.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\EntityFramework.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\MODEL.pdb
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+D:\fabian fagina\SENA\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+D:\fabian fagina\SENA\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\ApplicationInsights.config
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\csc.exe
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\VIEW.dll.config
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\VIEW.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\VIEW.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\EntityFramework.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Owin.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\WebGrease.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\MODEL.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\EntityFramework.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\ApplicationInsights.config
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\csc.exe
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\VIEW.dll.config
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\VIEW.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\VIEW.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\CONTROLLER.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\EntityFramework.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\LOGIC.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Owin.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\WebGrease.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\MODEL.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\EntityFramework.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\MODEL.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Meli\Desktop\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\ApplicationInsights.config
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\csc.exe
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll.config
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\LOGIC.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Owin.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\WebGrease.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\MODEL.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\LOGIC.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\MODEL.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\ApplicationInsights.config
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\csc.exe
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll.config
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\VIEW.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Owin.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\WebGrease.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\MODEL.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\MODEL.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\ApplicationInsights.config
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\csc.exe
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\vbc.exe
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll.config
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\VIEW.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\VIEW.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\LOGIC.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Owin.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\WebGrease.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\MODEL.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\CONTROLLER.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\LOGIC.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.Web.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\System.Web.Optimization.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Antlr3.Runtime.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Newtonsoft.Json.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\EntityFramework.SqlServer.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\System.Web.Providers.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\MODEL.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\VIEW\obj\Debug\VIEW.pdb

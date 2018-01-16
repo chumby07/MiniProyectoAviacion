@@ -1,0 +1,37 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\MiniProyecto\LOGIC\obj\Debug\LOGIC.csprojResolveAssemblyReference.cache
+D:\fabian fagina\SENA\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+D:\fabian fagina\SENA\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+D:\fabian fagina\SENA\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+D:\fabian fagina\SENA\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+D:\fabian fagina\SENA\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+C:\Users\Aprendiz\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MiniProyecto\LOGIC\obj\Debug\LOGIC.csprojResolveAssemblyReference.cache
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+C:\Users\Aprendiz\Desktop\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll.config
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\LOGIC\bin\Debug\LOGIC.pdb
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.dll
+C:\Users\Meli\Desktop\Mini avance 27-09\MinAvance\MiniProyecto\LOGIC\obj\Debug\LOGIC.pdb
